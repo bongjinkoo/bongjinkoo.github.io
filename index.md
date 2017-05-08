@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<img style="float: left; margin-right: 15px; margin-top: 15px; margin-bottom: 15px;" src="/images/profile.jpg">
 I am a Postdoctoral Researcher in Computer Vision working with Dr. Erol Özgür and Prof. Adrien Bartoli in [EnCoV](http://isit.u-clermont1.fr/en/team/ALCoV) at Université Clermont Auvergne, France.
 Current project concerns the registration of a deformable 3D model to 2D images and its application to the minimally invasive liver surgery using Augmented Reality (AR).
 I obtained a Ph.D. supervised by Prof. Niloy J. Mitra in [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/) at University College London, U.K.
