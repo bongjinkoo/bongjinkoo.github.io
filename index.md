@@ -10,6 +10,8 @@ I obtained a Ph.D. supervised by Prof. Niloy J. Mitra in [Smart Geometry Process
 
 # [](#news)News
 
+_16 May, 2017_ - Our paper _Deformable Registration of a Preoperative 3D Liver Volume to a Laparoscopy Image using Contour and Shading Cues_ is accepted for _MICCAI 2017_. The paper will be available soon!
+
 _July, 2016_ - I moved to EnCoV at Université Clermont Auvergne, France, as a Postdoctoral Researcher.
 
 * * *
