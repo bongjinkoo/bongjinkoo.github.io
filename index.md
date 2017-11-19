@@ -3,7 +3,7 @@ layout: default
 ---
 
 I am a Postdoctoral Researcher in Computer Vision working with Dr. Erol Özgür and Prof. Adrien Bartoli in [EnCoV](http://igt.ip.uca.fr/encov/) at Université Clermont Auvergne, France.
-My current research concerns how to train deep neural networks with very limited amount of labelled data.
+My current research concerns how to train deep neural networks with very limited amounts of labelled data.
 Also, I am working on the registration of a deformable 3D model to 2D images and its application to the minimally invasive liver surgery using Augmented Reality (AR).
 I obtained a Ph.D. in Computer Science supervised by Prof. Niloy J. Mitra in [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/) at University College London (UCL), U.K.
 Before that, I obtained a M.Sc. in Computer Graphics, Vision and Imaging, also at UCL. 
