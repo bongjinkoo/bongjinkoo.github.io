@@ -29,7 +29,7 @@ _MICCAI 2017_
 <img style="float: left; margin-right: 15px; margin-top: 15px; margin-bottom: 15px;" src="/publications/khlm_zero-waste_design.png">
 **Towards Zero-Waste Furniture Design**  
 Bongjin Koo\*, Jean Hergel\*, Sylvain Lefebvre, Niloy J. Mitra    
-_TVCG 2016_  
+_TVCG 2017_  
 [[pdf](http://geometry.cs.ucl.ac.uk/projects/2016/zero-waste_design/paper_docs/khlm_zero-waste_design_tvcg2016.pdf)] [[project page](http://geometry.cs.ucl.ac.uk/projects/2016/zero-waste_design/)]
 
 <img style="float: left; margin-left: 83px; margin-right: 83px;" src="/publications/bongjin_phd_thesis.png">
