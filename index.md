@@ -12,7 +12,7 @@ Before that, I obtained a M.Sc. in Computer Graphics, Vision and Imaging, also a
 
 # [](#news)News
 
-_16 May, 2017_ - Our paper _Deformable Registration of a Preoperative 3D Liver Volume to a Laparoscopy Image using Contour and Shading Cues_ is accepted for _MICCAI 2017_.
+_16 May, 2017_ - Our paper [_Deformable Registration of a Preoperative 3D Liver Volume to a Laparoscopy Image using Contour and Shading Cues_](/publications/2017/deform_reg/kolbb_deform_reg_miccai2017.pdf) is accepted for _MICCAI 2017_.
 
 _July, 2016_ - I moved to EnCoV at Université Clermont Auvergne, France, as a Postdoctoral Researcher.
 
