@@ -2,19 +2,24 @@
 layout: default
 ---
 
-I am a Postdoctoral Researcher in Computer Vision working with Dr. Erol Özgür and Prof. Adrien Bartoli in [EnCoV](http://igt.ip.uca.fr/encov/) at Université Clermont Auvergne, France.
-My current research concerns how to train deep neural networks with very limited amounts of labelled data.
-Also, I am working on the registration of a deformable 3D model to 2D images and its application to the minimally invasive liver surgery using Augmented Reality (AR).
-I obtained a Ph.D. in Computer Science supervised by Prof. Niloy J. Mitra in [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/) at University College London (UCL), U.K.
+I am a Research Associate in laparoscopic liver surgery
+at [WEISS (Wellcome / EPSRC Centre for Interventional and Surgical Sciences)](http://www.ucl.ac.uk/weiss), University College London (UCL), U.K.
+My current research concerns the development of an image-guidance system for the laparoscopic liver surgery using Augmented Reality (AR).
+I am also working on how to train deep neural networks with very limited amounts of labelled data,
+and how to utilise synthetic data more effectively.
+Previously, I was a Postdoctoral Fellow, working with Dr. Erol Özgür and Prof. Adrien Bartoli in [EnCoV](http://igt.ip.uca.fr/encov/) at Université Clermont Auvergne, France.
+I obtained a Ph.D. in Computer Science supervised by Prof. Niloy J. Mitra in [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/) at UCL.
 Before that, I obtained a M.Sc. in Computer Graphics, Vision and Imaging, also at UCL. 
 
 * * *
 
 # [](#news)News
 
+_July, 2018_ - I moved back to UCL as a Research Associate at [WEISS](http://www.ucl.ac.uk/weiss), UCL.
+
 _16 May, 2017_ - Our paper [_Deformable Registration of a Preoperative 3D Liver Volume to a Laparoscopy Image using Contour and Shading Cues_](/publications/2017/deform_reg/kolbb_deform_reg_miccai2017.pdf) is accepted for _MICCAI 2017_.
 
-_July, 2016_ - I moved to EnCoV at Université Clermont Auvergne, France, as a Postdoctoral Researcher.
+_July, 2016_ - I moved to EnCoV at Université Clermont Auvergne, France, as a Postdoctoral Fellow.
 
 * * *
 
@@ -58,4 +63,4 @@ _SIGGRAPH Asia 2014_
 
 # [](#contact)Contact
 
-bongjin.koo [at] uca.fr
+b.koo.11 [at] ucl.ac.uk
