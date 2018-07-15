@@ -2,9 +2,9 @@
 layout: default
 ---
 
-I am a Research Associate in laparoscopic liver surgery
+I am a Research Associate for Laparoscopic Liver Surgery
 at [WEISS (Wellcome / EPSRC Centre for Interventional and Surgical Sciences)](http://www.ucl.ac.uk/weiss), University College London (UCL), U.K.
-My current research concerns the development of an image-guidance system for the laparoscopic liver surgery using Augmented Reality (AR).
+My current research concerns the development of an image guidance system for the laparoscopic liver surgery using Augmented Reality (AR).
 I am also working on how to train deep neural networks with very limited amounts of labelled data,
 and how to utilise synthetic data more effectively.
 Previously, I was a Postdoctoral Fellow, working with Dr. Erol Özgür and Prof. Adrien Bartoli in [EnCoV](http://igt.ip.uca.fr/encov/) at Université Clermont Auvergne, France.
