@@ -10,7 +10,7 @@ I am also working on how to train deep neural networks with very limited amounts
 and how to utilise synthetic data more effectively.
 Previously, I was a Postdoctoral Fellow, working with Dr. Erol Özgür and Prof. Adrien Bartoli in [EnCoV](http://igt.ip.uca.fr/encov/) at Université Clermont Auvergne, France.
 I obtained a Ph.D. in Computer Science supervised by Prof. Niloy J. Mitra in [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/) at UCL.
-Before that, I obtained a M.Sc. in Computer Graphics, Vision and Imaging, also at UCL. 
+Before that, I obtained an M.Sc. in Computer Graphics, Vision and Imaging, also at UCL. 
 
 * * *
 
