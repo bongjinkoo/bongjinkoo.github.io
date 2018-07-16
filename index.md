@@ -2,7 +2,8 @@
 layout: default
 ---
 
-I am a Research Associate for Laparoscopic Liver Surgery
+I am a Research Associate for Laparoscopic Liver Surgery,
+working with Dr. Matthew J. Clarkson
 at [WEISS (Wellcome / EPSRC Centre for Interventional and Surgical Sciences)](http://www.ucl.ac.uk/weiss), University College London (UCL), U.K.
 My current research concerns the development of an image guidance system for the laparoscopic liver surgery using Augmented Reality (AR).
 I am also working on how to train deep neural networks with very limited amounts of labelled data,
