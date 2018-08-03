@@ -64,4 +64,4 @@ _SIGGRAPH Asia 2014_
 
 # [](#contact)Contact
 
-b.koo.11 [at] ucl.ac.uk
+b.koo [at] ucl.ac.uk
