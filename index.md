@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 # About me
-I am a Postdoctoral Scholar, working with Dr. Nina Miolane at [BioShape Lab](https://bioshape.ece.ucsb.edu/), University of California, Santa Barbara, USA.
+I am a Postdoctoral Scholar, working with Dr Nina Miolane at [BioShape Lab](https://bioshape.ece.ucsb.edu/), University of California, Santa Barbara, USA.
 Previously, I worked with Prof Matthew J. Clarkson at [WEISS (Wellcome / EPSRC Centre for Interventional and Surgical Sciences)](http://www.ucl.ac.uk/weiss), University College London (UCL), UK.
 <!-- My current research concerns the development of an image guidance system for the laparoscopic liver surgery using Augmented Reality (AR). -->
 <!-- I am also working on how to train deep neural networks with very limited amounts of labelled data, -->
