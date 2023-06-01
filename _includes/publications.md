@@ -1,9 +1,9 @@
 # [](#publications)Selected Publications
 
 
-<img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 80px;" width="250" src="/publications/2022/3d_vae-2022.png">
+<img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 110px;" width="250" src="/publications/2022/3d_vae-2022.png">
 ## **3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces**  
-Simone Foti, **Bongjin Koo**, Danail Stoyanov, Matthew J. Clarkson
+Simone Foti, **Bongjin Koo**, Danail Stoyanov, Matthew J. Clarkson  
 _CVPR 2022_  
 [[paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Foti_3D_Shape_Variational_Autoencoder_Latent_Disentanglement_via_Mini-Batch_Feature_Swapping_CVPR_2022_paper.pdf)] [[code](https://github.com/simofoti/3DVAE-SwapDisentangled)] [[video](https://youtu.be/C9d00_Ct4KI)] [[supplementary](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Foti_3D_Shape_Variational_CVPR_2022_supplemental.pdf)]
 
