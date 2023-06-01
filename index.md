@@ -12,7 +12,7 @@ Before that, I worked with Prof Adrien Bartoli at [EnCoV](http://igt.ip.uca.fr/e
 
 # Research interests
 I utilise geometric/deep learning for discovering the dynamics of protein shape changes (conformational changes) from cryo-EM images.
-With that, I develop models that are more interpretable while not sacrificing their accuracy. 
+In this context, I also develop models that are more interpretable while not sacrificing their accuracy. 
 
 
 

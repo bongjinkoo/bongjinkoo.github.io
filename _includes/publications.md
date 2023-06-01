@@ -1,6 +1,13 @@
 # [](#publications)Selected Publications
 
 
+<img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 0px;" width="250" src="/publications/2022/hetero_cryo-em-2022.png">
+## **Heterogeneous Reconstruction of Deformable Atomic Models in Cryo-EM**  
+Youssef Nashed, Ariana Peck, Julien Martel, Axel Levy, **Bongjin Koo**, Gordon Wetzstein, Nina Miolane, Daniel Ratner, Frédéric Poitevin  
+_NeurIPS Workshop 2022_  
+[[paper](https://arxiv.org/pdf/2209.15121)]  
+<br/><br/>     
+
 <img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 110px;" width="250" src="/publications/2022/3d_vae-2022.png">
 ## **3D Shape Variational Autoencoder Latent Disentanglement via Mini-Batch Feature Swapping for Bodies and Faces**  
 Simone Foti, **Bongjin Koo**, Danail Stoyanov, Matthew J. Clarkson  
