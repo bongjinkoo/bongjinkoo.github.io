@@ -38,7 +38,7 @@ Bongjin Koo
 _PhD Thesis 2016_  
 [[paper](http://geometry.cs.ucl.ac.uk/projects/2016/bongjin_thesis/paper_docs/bongjin_koo_phd_thesis.pdf)]
 
-<img style="float: left; margin-right: 15px; margin-top: 5px; margin-bottom: 25px;" src="/publications/imaginingTheUnseen.png">
+<img style="float: left; margin-right: 15px; margin-top: 5px; margin-bottom: 35px;" src="/publications/imaginingTheUnseen.png">
 ## **Imagining the Unseen: Stability-based Cuboid Arrangements for Scene Understanding**  
 Tianjia Shao \*, Aron Monszpart \*, Youyi Zheng, **Bongjin Koo**, Weiwei Xu, Kun Zhou, Niloy J. Mitra  
 _SIGGRAPH Asia 2014_  
