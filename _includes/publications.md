@@ -40,7 +40,7 @@ _PhD Thesis 2016_
 
 <img style="float: left; margin-right: 15px; margin-top: 5px; margin-bottom: 25px;" src="/publications/imaginingTheUnseen.png">
 ## **Imagining the Unseen: Stability-based Cuboid Arrangements for Scene Understanding**  
-Tianjia Shao \*, Aron Monszpart \*, Youyi Zheng, **Bongjin Koo**, Weiwei Xu, Kun Zhou, Niloy J. Mitra
+Tianjia Shao \*, Aron Monszpart \*, Youyi Zheng, **Bongjin Koo**, Weiwei Xu, Kun Zhou, Niloy J. Mitra  
 _SIGGRAPH Asia 2014_  
 [[paper](http://geometry.cs.ucl.ac.uk/projects/2014/imagining-the-unseen/paper_docs/ShaoMonszpart_Imagining_the_Unseen_sigga14.pdf)] [[project page](http://geometry.cs.ucl.ac.uk/projects/2014/imagining-the-unseen/)]
 
