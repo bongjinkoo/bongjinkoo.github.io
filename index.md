@@ -11,8 +11,8 @@ Previously, I worked with Prof Matthew J. Clarkson at [WEISS (Wellcome / EPSRC C
 Before that, I worked with Prof Adrien Bartoli at [EnCoV](http://igt.ip.uca.fr/encov/), Université Clermont Auvergne, France. I obtained a PhD in Computer Science supervised by Prof Niloy J. Mitra at [Smart Geometry Processing Group](http://geometry.cs.ucl.ac.uk/), UCL.
 
 # Research interests
-I utilise geometric/deep learning for discovering the dynamics of protein shape changes (conformational changes) from cryo-EM images.
-In this context, I also develop models that are more interpretable while not sacrificing their accuracy. 
+I utilise geometric/deep learning to discover the dynamics of protein shape changes (conformational changes) from cryo-EM images.
+In this context, I also develop models that are biophysically grounded and more interpretable while not sacrificing their accuracy. 
 
 
 
