@@ -6,7 +6,6 @@
 **Bongjin Koo**, Julien Martel, Ariana Peck, Axel Levy, Frédéric Poitevin, Nina Miolane    
 _ICML Workshop 2023 (accepted)_  
 [[paper](https://arxiv.org/pdf/2306.07274.pdf)]  
-<br/><br/>     
 
 <img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 0px;" width="250" src="/publications/2022/hetero_cryo-em-2022.png">
 ## **Heterogeneous Reconstruction of Deformable Atomic Models in Cryo-EM**  
