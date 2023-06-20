@@ -4,13 +4,13 @@
 <img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 120px;" width="250" src="/publications/2023/cryochains-2023.png">
 ## **Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**  
 **Bongjin Koo**, Julien Martel, Ariana Peck, Axel Levy, Frédéric Poitevin, Nina Miolane    
-_ICML Workshop 2023 (accepted)_  
+_ICML Workshop on Computational Biology 2023 (accepted)_  
 [[paper](https://arxiv.org/pdf/2306.07274.pdf)]  
 
 <img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 0px;" width="250" src="/publications/2022/hetero_cryo-em-2022.png">
 ## **Heterogeneous Reconstruction of Deformable Atomic Models in Cryo-EM**  
 Youssef Nashed, Ariana Peck, Julien Martel, Axel Levy, **Bongjin Koo**, Gordon Wetzstein, Nina Miolane, Daniel Ratner, Frédéric Poitevin  
-_NeurIPS Workshop 2022_  
+_NeurIPS Machine Learning in Structural Biology Workshop 2022_  
 [[paper](https://arxiv.org/pdf/2209.15121)]  
 <br/><br/>     
 
