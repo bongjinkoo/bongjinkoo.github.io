@@ -2,7 +2,7 @@
 
 
 <img style="float: left; margin-left: 0px; margin-right: 15px; margin-top: 5px; margin-bottom: 120px;" width="250" src="/publications/2023/cryochains-2023.png">
-## **Reconstructing Heterogeneous Cryo-EM Molecular Structures by Decomposing Them into Polymer Chains**  
+## **CryoChains: Heterogeneous Reconstruction of Molecular Assembly of Semi-flexible Chains from Cryo-EM Images**  
 **Bongjin Koo**, Julien Martel, Ariana Peck, Axel Levy, Frédéric Poitevin, Nina Miolane    
 _ICML Workshop on Computational Biology 2023 (accepted)_  
 [[paper](https://arxiv.org/pdf/2306.07274.pdf)]  
